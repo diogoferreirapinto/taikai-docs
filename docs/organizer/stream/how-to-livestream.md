@@ -15,8 +15,8 @@ Youp will need software that can push an RTMP stream. That software will be conf
 
 1. Go to **[cms.taikai.network](https://cms.taikai.network)** and login using the username and password provided;
 2. Go to the Challenge Page on your list of challenges;
-3. Go to Video/Live Stream Tab;
-4. On the Stage list click on the Stage Action menu and copy the stream key and url for further use.
+3. Go to Video/Stream tab;
+4. On the stage list click on the stage action menu and copy the **stream key** and **stream url** for further use.
 
 ![img](../../../static/img/organizer/stream/stream-05.png)
 

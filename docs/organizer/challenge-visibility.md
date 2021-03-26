@@ -9,7 +9,7 @@ The TAIKAI platform offers **two visibility** options for challenges:
 - **Public:** the challenge is visible to the public audience;
 - **Private:** the challenge will not be visible publicly and just is visible to participants, backers, mentors, and authorized persons.
 
-On the advanced page of the challenge, you find the **"challenge visibility"** section where you can edit if the challenge goes public or private.
+On the advanced page of the challenge (challenge > settings > advanced), you find the **"challenge visibility"** section where you can edit if the challenge goes public or private.
 
 ## Public Challenges
 

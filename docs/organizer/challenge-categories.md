@@ -12,7 +12,7 @@ It is possible to **create categories** within a challenge to make it **easier t
 
 ![img](../../static/img/organizer/challenge-categories-04.jpg)
 
-On your challenge page (CMS), at the bottom, you can find the **categories section**. Here you can see all your categories, create new ones, edit and delete existing categories.
+On your challenge page (CMS), under categories menu (challenge > settings > categories), you can see all your categories, create new ones, edit and delete existing categories.
 
 ![img](../../static/img/organizer/challenge-categories-03.jpg)
 
