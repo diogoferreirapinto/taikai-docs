@@ -20,6 +20,7 @@ module.exports = {
       "organizer/stream/manage-video-library",
       "organizer/stream/how-to-livestream",
       "organizer/voting-types",
+      "organizer/webhooks",
       "organizer/challenge-examples",
     ],
   },
