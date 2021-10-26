@@ -10,6 +10,7 @@ slug: /participant/register
 As soon as the innovators registration opens, you can complete the registration process before creating your project. On the challenge page, hit the **"Log In to Join"** button or **"Join Challenge"** if you are already logged in, on the top right of the screen and **fill the form**.
 
 ![img](../../static/img/participant/how-to-register-01.jpg)
+![img](https://user-images.githubusercontent.com/92993905/138895779-02b680ae-4057-4fcc-af68-4f154029ada2.png)
 
 ## Log In
 
